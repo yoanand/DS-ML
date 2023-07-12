@@ -1,4 +1,5 @@
 print('This is test code')
 for i in range(5):
    i += 5
-   print(i)
+# code to print the value of i.   
+print(i)
