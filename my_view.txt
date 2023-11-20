@@ -2,3 +2,7 @@ This is how github starts working.
 This is 2nd changes which i'm doing for a branch.
 
 Let's dance
+
+https://github.com/yoanand/Applied-AI-Course
+
+
